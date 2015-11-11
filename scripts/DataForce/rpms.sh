@@ -9,3 +9,4 @@ yum install elfutils-libelf-0.160-1.el7.i686
 yum install elfutils-libelf-devel-0.160-1.el7.i686
 yum install elfutils-libelf-devel-0.160-1.el7.x86_64
 yum install mksh.x86_64
+yum install!
